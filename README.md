@@ -4,3 +4,5 @@
  Testando a integração do VSC com Git e GitHub.
 
  Olá, Mundo!
+ 
+ Oi! Editei no GitHub Remoto!
